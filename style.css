@@ -1,0 +1,13 @@
+.boxA,.boxB,.boxC{
+display: inline-block;
+flex-direction: row;
+border: 1px solid black;
+box-shadow: 4px 4px 4px red;
+width: 100px;
+height: 100px;
+margin: 40px;
+padding: 10px;
+}
+.boxB, .boxC{
+    margin: 40px;
+}
